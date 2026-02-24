@@ -1,0 +1,6 @@
+print("enter length")
+L=int(input())
+print("enter qbreadth")
+B=int(input())
+pr=2*(L+B)
+print("perimeter=",pr)
